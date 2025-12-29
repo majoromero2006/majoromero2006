@@ -3,13 +3,21 @@
 
 ## 🛠️ Tecnologías y habilidades
 **QA / Testing:** Pruebas funcionales manuales, casos de prueba, gestión de incidencias
+
 **Gestión Ágil:** Jira, Confluence, Tempo
+
 **Colaboración y diseño:** Miro
+
 **Bases de datos:** MySQL, PostgreSQL, Microsoft SQL Server, Oracle, MongoDB
+
 **Gestores de BD:** DBeaver
+
 **Lenguajes:** JavaScript, Python, PHP
+
 **Frontend:** React
+
 **Control de versiones:** Git / GitHub
+
 **IA aplicada:** Creación y uso de GPTs personalizados para apoyo en QA y documentación
 
 ## 🌟 Proyectos destacados
